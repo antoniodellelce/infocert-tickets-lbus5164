@@ -1,0 +1,6 @@
+see LBUS-4909
+
+legalbus.infocert.it                       ip1pvlewslbh003.prdmz.infocert.it
+                                           ip1pvlewslbh004.prdmz.infocert.it
+                                           ip1pvlewslbh007.prdmz.infocert.it
+                                           ip1pvlewslbh008.prdmz.infocert.it
